@@ -18,6 +18,6 @@ https://docs.google.com/spreadsheets/d/1gVi0ND1LKhHK-8XE9qHmXcKQIMQPV3rm/edit?us
 Как решила:   
 1. https://docs.google.com/document/d/1JMC_Bu7hUH7dX4xqdRT0tutYxEtxN0hIF4vP2Uhowjs/edit?usp=sharing 
 2. https://docs.google.com/spreadsheets/d/1n6xla_SeBPrkNpf4PnwrExsSroOwipK3/edit?usp=sharing&ouid=117230184626747715404&rtpof=true&sd=true  
-Проект 3. Интервальная статистика. 
+Проект 3. Интервальная статистика.   
 Задание. Провести анализ интервальной статистики: расчет средних показателей, расчёт дисперсии, стандартного отклонения, рсчёт вероятности.  
 Как решила: https://docs.google.com/spreadsheets/d/1MnwaMWdPfy_8XapqFVcVzPNXVVMMqOej/edit?usp=sharing&ouid=117230184626747715404&rtpof=true&sd=true
