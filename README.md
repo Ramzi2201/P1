@@ -11,5 +11,13 @@ zinnatullina.ramziya@mail.ru
 Задача 2. Собрать наглядную визуализацию, где будет показано, кто, где и смотрит фильмы на платформе.  
 Задача 3. Собрать калькулятор юнит-экономики продукта.      
 Как решила:
-https://docs.google.com/spreadsheets/d/1gVi0ND1LKhHK-8XE9qHmXcKQIMQPV3rm/edit?usp=sharing&ouid=117230184626747715404&rtpof=true&sd=true
- 
+https://docs.google.com/spreadsheets/d/1gVi0ND1LKhHK-8XE9qHmXcKQIMQPV3rm/edit?usp=sharing&ouid=117230184626747715404&rtpof=true&sd=true  
+Проект 2: Моделирование изменения балансов студентов  
+Задача 1. Посмотрите на изменения балансов студентов. Какие данные вас смущают? Какие вопросы стоит задавать дата-инженерам и владельцам таблиц?  
+Задача 2. Создайте визуализацию итогового результата.   
+Как решила:   
+1. https://docs.google.com/document/d/1JMC_Bu7hUH7dX4xqdRT0tutYxEtxN0hIF4vP2Uhowjs/edit?usp=sharing 
+2. https://docs.google.com/spreadsheets/d/1n6xla_SeBPrkNpf4PnwrExsSroOwipK3/edit?usp=sharing&ouid=117230184626747715404&rtpof=true&sd=true  
+Проект 3. Интервальная статистика. 
+Задание. Провести анализ интервальной статистики: расчет средних показателей, расчёт дисперсии, стандартного отклонения, рсчёт вероятности.  
+Как решила: https://docs.google.com/spreadsheets/d/1MnwaMWdPfy_8XapqFVcVzPNXVVMMqOej/edit?usp=sharing&ouid=117230184626747715404&rtpof=true&sd=true
